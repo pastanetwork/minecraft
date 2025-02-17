@@ -39,7 +39,8 @@ It’s set in infinitely-generated worlds of wide open terrain - icy mountains, 
 * [SpongeVanilla](java/spongevanilla)
 * [Technic](java/technic)
 * [VanillaCord](java/vanillacord)
-
+* [Vanilla](java/vanilla)
+* 
 ## [Proxies](proxy) Minecraft Server Proxies
 
 * [Bedrock](proxy/bedrock)
