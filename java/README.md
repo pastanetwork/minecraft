@@ -176,3 +176,7 @@ The official Tekkit Classic modpack. Build factories, automate crafting!
 ## VanillaCord
 [VanillaCord](https://github.com/ME1312/VanillaCord)
 VanillaCord adds support for BungeeCord's ip-forwarding option on vanilla Minecraft servers.
+
+## [Vanilla](vanilla)
+[Vanilla](https://www.minecraft.net/fr-fr/download/server)
+The official Minecraft Server.
