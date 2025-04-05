@@ -1,8 +1,8 @@
-# Paper
+# Arclight
 
-Paper is the next generation of Minecraft server, compatible with Spigot plugins and offering uncompromising performance.
+A Bukkit server implementation on common mod loaders.
 
-Check out the [Paper Website](https://papermc.io/) for more information.
+Check out the [Github](https://github.com/IzzelAliz/Arclight) for more information.
 
 ## Server Ports
 
