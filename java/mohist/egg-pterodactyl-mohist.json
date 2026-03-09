@@ -4,7 +4,7 @@
         "version": "PTDL_v2",
         "update_url": null
     },
-    "exported_at": "2025-02-17T17:41:53+01:00",
+    "exported_at": "2026-03-09T17:18:09+01:00",
     "name": "MohistMC",
     "author": "alex.chang-lam@protonmail.com",
     "description": "Spigot fork with performance optimizations.",
@@ -55,7 +55,7 @@
             "default_value": "1.20.1",
             "user_viewable": true,
             "user_editable": true,
-            "rules": "required|string|max:20",
+            "rules": "required|string|max:50",
             "field_type": "text"
         },
         {
