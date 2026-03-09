@@ -4,7 +4,7 @@
         "version": "PTDL_v2",
         "update_url": null
     },
-    "exported_at": "2025-02-18T01:14:24+01:00",
+    "exported_at": "2026-03-09T17:21:53+01:00",
     "name": "Purpur",
     "author": "purpur@birdflop.com",
     "description": "A drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.",
@@ -45,7 +45,7 @@
             "default_value": "latest",
             "user_viewable": true,
             "user_editable": true,
-            "rules": "required|string|max:20",
+            "rules": "required|string|max:50",
             "field_type": "text"
         },
         {
