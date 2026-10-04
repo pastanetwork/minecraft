@@ -25,7 +25,7 @@ An experimental Minecraft server implementation in Rust
 
 ## Forge Based
 
-### [Forge](forge/forge)
+### [Forge](forge/)
 
 [Forge MC Website](https://files.minecraftforge.net)
 This is a direct fork of the default forge service
@@ -117,7 +117,7 @@ A collection of spigot and forked spigot eggs.
 
 [PaperMC GitHub](https://github.com/PaperMC/Paper)
 High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies
-Currently the default on pterodactyl for many reasons. First being that you don't need to build the jar.
+Currently the default for many reasons. First being that you don't need to build the jar.
 
 ### [Folia](folia)
 
@@ -171,12 +171,15 @@ The ancient power of Tekkits past return in this legendary pack!
 [Tekkit Classic Modpack Page](https://www.technicpack.net/modpack/tekkit.552560)
 The official Tekkit Classic modpack. Build factories, automate crafting!
 
+
+## [Vanilla](vanilla)
+
+## Vanilla
+[Vanilla](https://www.minecraft.net/en-us/download/server)
+Vanilla Minecraft server.
+
 ## [VanillaCord](vanillacord)
 
 ## VanillaCord
 [VanillaCord](https://github.com/ME1312/VanillaCord)
 VanillaCord adds support for BungeeCord's ip-forwarding option on vanilla Minecraft servers.
-
-## [Vanilla](vanilla)
-[Vanilla](https://www.minecraft.net/fr-fr/download/server)
-The official Minecraft Server.

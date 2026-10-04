@@ -2,7 +2,7 @@
     "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PTERODACTYL PANEL - PTERODACTYL.IO",
     "meta": {
         "version": "PTDL_v2",
-        "update_url": null
+        "update_url": "https:\/\/raw.githubusercontent.com\/pastanetwork\/minecraft\/refs\/heads\/main\/java\/purpur\/egg-pterodactyl-purpur.json"
     },
     "exported_at": "2026-03-09T17:21:53+01:00",
     "name": "Purpur",
@@ -20,7 +20,8 @@
         "Java 17": "ghcr.io\/pastanetwork\/yolks:java_17",
         "Java 19": "ghcr.io\/pastanetwork\/yolks:java_19",
         "Java 21": "ghcr.io\/pastanetwork\/yolks:java_21",
-        "Java 22": "ghcr.io\/pastanetwork\/yolks:java_22"
+        "Java 22": "ghcr.io\/pastanetwork\/yolks:java_22",
+        "Java 25": "ghcr.io\/pastanetwork\/yolks:java_25"
     },
     "file_denylist": [],
     "startup": "java --add-modules=jdk.incubator.vector -Xms128M -XX:MaxRAMPercentage=95.0 -Dterminal.jline=false -Dterminal.ansi=true -jar {{SERVER_JARFILE}}",
