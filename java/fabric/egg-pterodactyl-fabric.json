@@ -21,7 +21,9 @@
         "Java 19": "ghcr.io\/pastanetwork\/yolks:java_19",
         "Java 21": "ghcr.io\/pastanetwork\/yolks:java_21",
         "Java 22": "ghcr.io\/pastanetwork\/yolks:java_22",
-        "Java 25": "ghcr.io\/pastanetwork\/yolks:java_25"
+        "Java 25": "ghcr.io\/pastanetwork\/yolks:java_25",
+        "Java 26": "ghcr.io\/pastanetwork\/yolks:java_26",
+        "Java 27": "ghcr.io\/pastanetwork\/yolks:java_27"
     },
     "file_denylist": [],
     "startup": "java -Xms128M -Xmx{{SERVER_MEMORY}}M -jar {{SERVER_JARFILE}}",
